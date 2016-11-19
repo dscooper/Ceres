@@ -1,0 +1,36 @@
+{
+  "MainForm": {
+    "Size": {
+      "Width": "900",
+      "Height": "600"
+    },
+    "SerialPortProperties": {
+      "SerialPort": "None",
+      "BaudRate": "19200",
+      "DataBits": "8",
+      "Parity": "None",
+      "StopBits": "One",
+      "Handshake": "None"
+    },
+    "SendTextBox": {
+      "Font": { 
+          "Name" : "Microsoft Sans Serif", 
+          "Size" : "8.25pt",
+          "Unit" : "Point"
+        },
+      "ForeColor": "Black",
+      "BackColor": "White"
+    },
+    "ReceiveTextBox": {
+      "Font": {
+        "Name" : "Microsoft Sans Serif", 
+        "Size" : "8.25pt",
+        "Unit" : "Point"
+      },
+      "ForeColor": "Black",
+      "BackColor": "White"
+    }
+  }
+}
+
+
